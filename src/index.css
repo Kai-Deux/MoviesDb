@@ -95,7 +95,7 @@ header {
 }
 
 .tag.grey {
-color: grey;
+    color: black;
 background-color: grey;
  transform: rotate(-45deg);
  text-align: center;
@@ -107,7 +107,7 @@ background-color: grey;
 
 .tag.red {
     background-color: red;
-  color: red;
+    color: black;
   position: absolute;
  transform: rotate(-45deg);
  text-align: center;
@@ -118,7 +118,7 @@ background-color: grey;
 
 .tag.yellow {
 background-color: yellow;
- color: yellow; 
+color: black;
  position: absolute;
  transform: rotate(-45deg);
  text-align: center;
@@ -131,7 +131,7 @@ background-color: yellow;
 
 .tag.green {
     background-color: green;
-    color: green;
+    color: black;
     position: absolute;
  transform: rotate(-45deg);
  text-align: center;
